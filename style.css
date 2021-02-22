@@ -1,0 +1,86 @@
+html,
+body {
+    margin: 0;
+    padding: 0;
+}
+
+canvas {
+    display: block;
+}
+
+.div-block {
+    width: 55vw;
+    max-height: 80vh;
+    overflow: scroll;
+    font-family: Poppins, sans-serif;
+}
+
+.heading {
+    position: static;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+    padding-left: 2vw;
+    border-bottom: 1px solid #000;
+    font-size: 2.5vw;
+    font-weight: 700;
+    -o-object-fit: fill;
+    object-fit: fill;
+}
+
+.div-block-2 {
+    position: static;
+    margin-right: 2vw;
+    margin-bottom: 2vw;
+    margin-left: 2vw;
+    font-size: 1.5vw;
+    -o-object-fit: fill;
+    object-fit: fill;
+}
+
+.paragraph {
+    margin-bottom: 1.2vh;
+    text-align: left;
+}
+
+.heading-2 {
+    margin-top: 1.2vh;
+    margin-bottom: 1.2vh;
+    font-size: 2vw;
+}
+
+.list {
+    overflow: hidden;
+    height: 95%;
+    margin-bottom: 0px;
+    padding-left: 0px;
+}
+
+.div-block-3 {
+    overflow: visible;
+}
+
+.div-block-4 {
+    overflow: scroll;
+    height: 95%;
+}
+
+.paragraph {
+    margin-top: 0;
+}
+
+.heading {
+    margin-top: 40px;
+    margin-left: 40px;
+    font-family: 'PT Serif', serif;
+    color: #000;
+    font-size: 55px;
+}
+
+.paragraph {
+    padding-top: 25px;
+    padding-left: 40px;
+    font-family: Georgia, Times, 'Times New Roman', serif;
+    color: #000;
+    font-size: 15px;
+}
